@@ -67,4 +67,3 @@ Contributions are welcome! If you’d like to help improve the website, please f
 
 ---
 
-Feel free to modify any section to better fit your project's specific details!
